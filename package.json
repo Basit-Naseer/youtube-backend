@@ -1,0 +1,14 @@
+{
+  "name": "mern-project",
+  "version": "1.0.0",
+  "description": "This is mern stack Project to learn about the mern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Sk khan",
+  "license": "ISC"
+}
